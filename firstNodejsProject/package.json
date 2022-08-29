@@ -1,0 +1,14 @@
+{
+  "name": "firstnodejsproject",
+  "version": "1.0.0",
+  "description": "This is my first nodejs demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Namdev Bhosle",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  }
+}

@@ -1,0 +1,27 @@
+Todo App API
+
+Single Todo Properties
+
+    title - string
+    description(optional) - string
+    isCompleted - boolean
+    createdBy - string
+    createdAt - date
+    updatedAt - date
+
+ToDo App Functions
+    create todo - post
+    update todo - put
+    delete todo - delete
+    complete todo - put
+    find all todos - get
+    find single todo - get
+
+ToDo Routes
+    /todos - get all todos
+    /todo - create todo
+    /todo/:id - get single todo
+    /todo/:id - update todo
+    /todo/:id - delete todo
+    /todo/:id - complete todo
+    
